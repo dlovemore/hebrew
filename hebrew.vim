@@ -9,7 +9,7 @@ digraph tr 1461 "TseRe
 digraph sg 1462 "SeGol
 digraph pt 1463 "Patah
 digraph qm 1464 "QaMats
-digraph hl 1465 "Holam
+digraph hl 1465 "HoLam
 digraph hh 1466 "Holam Haser for vav
 digraph qb 1467 "Qubuts
 digraph dg 1468 "DaGesh
